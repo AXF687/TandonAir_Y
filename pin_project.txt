@@ -1,0 +1,39 @@
+trig = D8
+echo = D7
+relay = D0
+sda = D2
+scl = D1
+buzzer = D3
+
+lcd12c :
+	vcc = vu (esp)
+	gnd = gnd (esp)
+	sda = D2 (esp)
+	scl = D1 (esp)
+ultrasonic :
+	 vcc = + (psu)
+	 gnd = - (psu)
+	 trig = D8 (esp)
+	 echo = D7 (esp)
+relay : 
+	DO+ = + (psu)
+	DO- = - (psu)
+	CH1 = D0 (esp)
+buzzer :
+	vcc = + (psu)
+	gnd = - (psu)
+	1/0 = D3 (esp)
+led1 :
+	- (led) = - (psu)
+	+ (led) = D5 (esp)
+led2 :
+	- (led2) = - (psu)
+	+ (led2) = D6 (esp)
+
+vu (esp) = + (psu)
+gnd (esp) = - (psu)
+
+note : yang belum diselesaikan 
+	- ppt project
+
+	 

@@ -1,0 +1,49 @@
+KATA PENGANTAR
+DAFTAR ISI
+DAFTAR GAMBAR 
+DAFTAR TABEL
+BAB I PENDAHULUAN
+1.1 Latar Belakang 
+1.2 Rumusan Masalah 
+1.3 Ruang Lingkup Kegiatan 
+1.4 Tujuan Kegiatan 
+1.5 Manfaat Kegiatan
+1.6 Sistematika Penulisan
+BAB II TINJAUAN PUSTAKA
+2.1 Internet of Thinks
+2.2 Mikrokontroller
+2.3 IDE arduino
+2.4 Sensor Ultrasonik HC-SR04
+2.5 Buzzer
+2.6 Power Supply MB-102
+2.7 breadboard
+2.8 LCD 12C
+2.9 Pompa air 5v
+2.10 Modul Relay SSR
+BAB III METODE KEGIATAN
+3.1 Waktu dan Tempat Penelitian
+3.2 Alat dan Bahan
+3.3 Prosedur Kerja
+3.4 Diagram Blok
+3.5 Flowchart
+BAB IV HASIL DAN PEMBAHASAN
+4.1 Hasil
+4.2 Hasil Kegiatan
+4.3 Hasil Pengujian
+4.3.1 Pengujian Prototipe Sistem
+4.3.2 Pengujian Komunikasi
+4.3.3 Pengujian Kendali
+4.3.4 Pengujian Secara Keseluruhan 
+BAB V KESIMPULAN DAN SARAN
+5.1 Kesimpulan 
+5.2 Saran
+DAFTAR PUSTAKA 
+
+tiara rannu zefanya sarira/september2021
+https://repository.poliupg.ac.id/id/eprint/2794/1/TUGAS%20AKHIR_ANDI%20BAU%20KHAEDIR%20MUHARDIKA%20LOLOGAU_TIARA%20RANNU%20ZEFANYA%20SARIRA%20%20%20wtr.pdf
+
+DADAN NURDIN BAGENDA, ST., MT./2024
+Internet Of Things (IoT) Device base on Esp8266 (NodeMCU), DNB 2024
+
+Farid Andesta Pratama 23063007, Lutfi Jenang HS 23063034/19 Desember 2024
+https://www.scribd.com/document/829555102/Laporan-proyek-akhir-kelompok-3-23063007-23063034
